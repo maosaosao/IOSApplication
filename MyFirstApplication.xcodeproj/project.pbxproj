@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FE70048119AE50DD008C7104 /* 14029473842014-02-24_04-40-40__images-2.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = FE70048019AE50DD008C7104 /* 14029473842014-02-24_04-40-40__images-2.jpeg */; };
 		FE824E1719A6E5D000F2D517 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FE824E1619A6E5D000F2D517 /* Foundation.framework */; };
 		FE824E1919A6E5D000F2D517 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FE824E1819A6E5D000F2D517 /* CoreGraphics.framework */; };
 		FE824E1B19A6E5D000F2D517 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FE824E1A19A6E5D000F2D517 /* UIKit.framework */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		FE70048019AE50DD008C7104 /* 14029473842014-02-24_04-40-40__images-2.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "14029473842014-02-24_04-40-40__images-2.jpeg"; sourceTree = "<group>"; };
 		FE824E1319A6E5D000F2D517 /* MyFirstApplication.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyFirstApplication.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FE824E1619A6E5D000F2D517 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		FE824E1819A6E5D000F2D517 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -126,6 +128,7 @@
 		FE824E1D19A6E5D000F2D517 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				FE70048019AE50DD008C7104 /* 14029473842014-02-24_04-40-40__images-2.jpeg */,
 				FE824E1E19A6E5D000F2D517 /* MyFirstApplication-Info.plist */,
 				FE824E1F19A6E5D000F2D517 /* InfoPlist.strings */,
 				FE824E2219A6E5D000F2D517 /* main.m */,
@@ -232,6 +235,7 @@
 				FE824E2F19A6E5D000F2D517 /* Images.xcassets in Resources */,
 				FE824E2119A6E5D000F2D517 /* InfoPlist.strings in Resources */,
 				FE824E2A19A6E5D000F2D517 /* Main.storyboard in Resources */,
+				FE70048119AE50DD008C7104 /* 14029473842014-02-24_04-40-40__images-2.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -457,6 +461,7 @@
 				FE824E4719A6E5D100F2D517 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		FE824E4819A6E5D100F2D517 /* Build configuration list for PBXNativeTarget "MyFirstApplicationTests" */ = {
 			isa = XCConfigurationList;
@@ -465,6 +470,7 @@
 				FE824E4A19A6E5D100F2D517 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
